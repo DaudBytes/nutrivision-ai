@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Primary Theme Colours -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+
+    <!-- Background -->
+    <color name="app_background">#FFFFFF</color>
+
+    <!-- Accent (AI feel) -->
+    <color name="accent">#1E88E5</color>
+
+    <!-- Base Colours -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Text Colours -->
+    <color name="text_primary">#1F1F1F</color>
+    <color name="text_secondary">#666666</color>
+
+    <!-- UI Elements -->
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Advice Card -->
+    <color name="advice_bg">#E8F5E9</color>
+    <color name="advice_text">#1B5E20</color>
+
+</resources>
